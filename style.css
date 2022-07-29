@@ -1,0 +1,154 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+.div {
+    margin-left: 500px;
+    padding-top: 200px;
+
+}
+
+ 
+.h1 {
+    
+    width: 200px;
+    height: 50px;
+    margin-left: 190px;
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+
+.input {
+    width: 1300px;
+    height: 42px;
+    border-radius: 5px;
+}
+
+.box {
+    height: 700px;
+    background: no-repeat;
+    background-image:url(./travel.jpg) ;
+}
+
+.h2 {
+    
+    margin-left: 320px;
+    color: white;
+    font-size: 22px;
+}
+
+.h3 {
+    margin-left: 190px;
+    color: white;
+    font-size: 34px;
+}
+
+.input {
+    margin-left: -197px;
+    outline: none;
+}
+
+.btn1 {
+    font-family: monospace;
+    margin-left: 400px;
+    margin-top: 40px;
+    width: 160px;
+    height: 50px;
+    background-color: rgb(215, 34, 34);
+    color: white;
+    font-size: 17px;
+    border-radius: 9px;
+    border: none;
+}
+
+.box1 {
+    display: flex;
+    margin-top: -100px;
+    width: 2000px;
+    height: 110px;
+    background-color: rgb(44, 90, 123);
+}
+
+.fa-solid {
+    text-align: center;
+    padding-top: 17px;
+    margin-left: 130px;
+    border-radius: 50%;
+    margin-top: 17px;
+    font-size: 26px;
+    background-color: rgb(204, 233, 255);
+        width: 60px;
+        height: 60px;
+    color: rgb(44, 90, 123);
+}
+
+.h5 {
+    color: white;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.h6 {
+    color: white;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.h7 {
+    color: white;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+
+
+.h8 {
+    color: white;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
